@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tarzzi
-- 🌱 I’m currently learning to become a full-stack master someday
+- 🌱 I’m currently studying to become a software developer.
 - 📫 [Linkedin](https://linkedin.com/in/urrio)
 - ☁️ [Portfolio](https://urrio.fi)
 - ☁️ [Little projects](https://urrio.cloud)
