@@ -2,6 +2,5 @@
 - 🌱 I’m currently finishing my ICT studies.
 - #️⃣ I use Javascript, Php, C#, Powershell, Azure, SPFx and everything interesting to create all kinds of things. 
 - 📫 [Linkedin](https://linkedin.com/in/urrio)
-- ☁️ [Portfolio](https://urrio.fi)
-- ☁️ [Little projects](https://urrio.cloud)
+- ☁️ [Site](https://urrio.fi)
 
